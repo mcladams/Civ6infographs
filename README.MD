@@ -1,4 +1,5 @@
 # CIVIGraphs
+## Forked for HISTORY only not maintained or providing pull requests to upstream
 ## A Demographics Information Mod for CiV VI
 ![new_demo_panel](https://user-images.githubusercontent.com/13967957/32300280-067b83e6-bf16-11e7-9069-c8db2823f4f3.jpg)
 
